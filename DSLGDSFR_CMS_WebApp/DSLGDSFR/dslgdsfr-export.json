@@ -1,0 +1,1248 @@
+{
+  "Genericos" : {
+    "3" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Oferta 1 Adolecente",
+      "Grupo" : 11,
+      "Titulo" : "Oferta Adolecente(H) 1",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Generico%2FHombre%2FAdolecente%2FzapatoAdolecenteHombre1.jpg?alt=media&token=a4b358eb-afc2-4833-8274-4fae3adc37f2"
+    },
+    "6" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Oferta Adulto(H) 2",
+      "Grupo" : 12,
+      "Titulo" : "Oferta Adulto(H) 2",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Generico%2FHombre%2FAdulto%2FZapatosAdultoHombre2.jpg?alt=media&token=075a4a2b-ab74-411f-9e5c-5980d859f429"
+    },
+    "8" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Oferta Adulto Mayor(H) 2",
+      "Grupo" : 13,
+      "Titulo" : "Oferta Adulto Mayor(H) 2",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Generico%2FHombre%2FAdulto%20Mayor%2FzapatoAdultoMayorHombre2.jpg?alt=media&token=b3ea16d1-489c-4f09-ae54-63cfae451eb4"
+    },
+    "9" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Oferta 1 Niña (M)",
+      "Grupo" : 20,
+      "Titulo" : "Oferta 1 Niña (M)",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Generico%2FMujer%2FNi%C3%B1a%2Fzapatoni%C3%B1as.jpg?alt=media&token=2e389d73-1b5e-4f9a-a27d-671454417b28"
+    },
+    "10" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Oferta Adolecente(M) 1",
+      "Grupo" : 21,
+      "Titulo" : "Oferta Adolecente(M) 1",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Generico%2FMujer%2FAdolescente%2Fzapatosadolescente.JPG?alt=media&token=bfcd8921-8acd-4c01-be42-d438eaaf5d51"
+    },
+    "12" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "oferta Adulta(M) 1",
+      "Grupo" : 22,
+      "Titulo" : "oferta Adulta(M) 1",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Generico%2FMujer%2FAdulta%2Fzapatosmujer.JPG?alt=media&token=f9e95761-15d2-4a74-8404-a0809eb7c351"
+    },
+    "15" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Oferta Adulto mayor(M) 2",
+      "Grupo" : 23,
+      "Titulo" : "Oferta Adulto mayor(M) 2",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Generico%2FMujer%2FAdulta%20mayor%2Fzapatosadultamayor2.jpg?alt=media&token=903b8480-f4eb-4d1c-8641-9b317d2da0be"
+    },
+    "-M7yUaM50AmQ_kcB8xV_" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Vista escaparate",
+      "Grupo" : "Ninguno",
+      "Titulo" : "Presentacion de la tienda",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Vacio%2FBannerGeneric.jpg?alt=media&token=644aea29-80a6-4765-ab5a-8668cce16f51"
+    },
+    "-M90NNRRuHqM7qoSFSER" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Zapatos para hombre",
+      "Grupo" : "Ninguno",
+      "Titulo" : "Nueva temporada",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Nueva%20temporada%2FBannerMenWithoutGreeting.jpg?alt=media&token=5e723e74-1aeb-406c-a0ff-df398c51bf1a"
+    },
+    "-M90Ozav50LQZFuuPB5n" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Anuncio de zapatos",
+      "Grupo" : "Ninguno",
+      "Titulo" : "Nuevos zapatos",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Nueva%20temporada%2FBannerWomen.jpg?alt=media&token=3e743aff-6158-4dbe-b9c9-324071d410f8"
+    },
+    "-M9_9W_7mZjbkQYpM9Pw" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "para los mas engreidos",
+      "Grupo" : 10,
+      "Titulo" : "Ofertas para niños",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/nullrBVaSVtieVGAQLsFAACEvmZjOIM258.jpg?alt=media&token=94dfcdc7-e3e4-4c58-bab9-ff030ea456f5"
+    },
+    "-M9_ikRz6J8x6WPYtN9N" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Adolescentes",
+      "Grupo" : 21,
+      "Titulo" : "Ofertas mujeres",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/nulladolescentesm1.png?alt=media&token=07ee7d43-bac6-441b-8edf-107ecc04680e"
+    }
+  },
+  "Interacciones" : [ null, {
+    "IdPersona" : 3
+  }, {
+    "IdPersona" : 4
+  }, {
+    "IdPersona" : 115
+  }, {
+    "IdPersona" : "Ninguno"
+  } ],
+  "Items" : {
+    "1" : {
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdItem" : 1,
+      "Nombre" : "UBFEN Zapatos acuáticos",
+      "TieneOferta" : "False",
+      "Tipo" : "Deportivas"
+    },
+    "2" : {
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdItem" : 2,
+      "Nombre" : "Puma Ignite Flash Evoknit",
+      "TieneOferta" : "False",
+      "Tipo" : "Deportivas"
+    },
+    "3" : {
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdItem" : 3,
+      "Nombre" : "RELANCE KX58",
+      "TieneOferta" : "False",
+      "Tipo" : "Deportivas"
+    },
+    "4" : {
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdItem" : 4,
+      "Nombre" : "Nike Men's Flyknit Trainer",
+      "TieneOferta" : "False",
+      "Tipo" : "Deportivas"
+    },
+    "5" : {
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdItem" : 5,
+      "Nombre" : "Reebok Men's Crossfit Nano",
+      "TieneOferta" : "False",
+      "Tipo" : "Deportivas"
+    },
+    "31" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group1",
+      "IdItem" : 31,
+      "Nombre" : "Zapatos De Cuero",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    },
+    "33" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group1",
+      "IdItem" : 33,
+      "Nombre" : "Zapatos Casuales Baldwinn",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    },
+    "34" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group1",
+      "IdItem" : 34,
+      "Nombre" : "Zapatos Casuales Cuero",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    },
+    "38" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group1",
+      "IdItem" : 38,
+      "Nombre" : "Zapatos Casuales Stan",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    },
+    "50" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group1",
+      "IdItem" : 50,
+      "Nombre" : "Adidas Selley Black",
+      "TieneOferta" : "True",
+      "Tipo" : "Urbanas"
+    },
+    "60" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group2",
+      "IdItem" : 60,
+      "Nombre" : "Nike Mens Legend Trainer",
+      "TieneOferta" : "True",
+      "Tipo" : "Deportivas"
+    },
+    "64" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group2",
+      "IdItem" : 64,
+      "Nombre" : "Nike Mens Varsity",
+      "TieneOferta" : "True",
+      "Tipo" : "Deportivas"
+    },
+    "67" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group2",
+      "IdItem" : 67,
+      "Nombre" : "Greenbay Cuero",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    },
+    "68" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group2",
+      "IdItem" : 68,
+      "Nombre" : "Newport Galileo",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    },
+    "76" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group2",
+      "IdItem" : 76,
+      "Nombre" : "Adidas Urbanas Black",
+      "TieneOferta" : "True",
+      "Tipo" : "Urbanas"
+    },
+    "77" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group2",
+      "IdItem" : 77,
+      "Nombre" : "Converse Courtlandt Black",
+      "TieneOferta" : "True",
+      "Tipo" : "Urbanas"
+    },
+    "82" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group3",
+      "IdItem" : 82,
+      "Nombre" : "Zapatos Casuales Nelsonn",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    },
+    "86" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group3",
+      "IdItem" : 86,
+      "Nombre" : "Zapatos formales Pasador 6262",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    },
+    "91" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group3",
+      "IdItem" : 91,
+      "Nombre" : "Zapatillas Urbanas Adidas Red",
+      "TieneOferta" : "True",
+      "Tipo" : "Urbanas"
+    },
+    "93" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group3",
+      "IdItem" : 93,
+      "Nombre" : "Adidas Urbanas 3MC Black",
+      "TieneOferta" : "True",
+      "Tipo" : "Urbanas"
+    },
+    "97" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group3",
+      "IdItem" : 97,
+      "Nombre" : "Nike Mens Varsity Compete ",
+      "TieneOferta" : "True",
+      "Tipo" : "Deportivas"
+    },
+    "103" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group3",
+      "IdItem" : 103,
+      "Nombre" : "Adidas Athletics 247 ",
+      "TieneOferta" : "True",
+      "Tipo" : "Deportivas"
+    },
+    "104" : {
+      "Genero" : "Hombre",
+      "Grupo" : "group3",
+      "IdItem" : 104,
+      "Nombre" : "Under Armour Charged Commit",
+      "TieneOferta" : "True",
+      "Tipo" : "Deportivas"
+    },
+    "116" : {
+      "Genero" : "Mujer",
+      "Grupo" : "common",
+      "IdItem" : 116,
+      "Nombre" : "Adidas Running Falcon",
+      "TieneOferta" : "True",
+      "Tipo" : "Deportivas"
+    },
+    "142" : {
+      "Genero" : "Mujer",
+      "Grupo" : "group1",
+      "IdItem" : 142,
+      "Nombre" : "New Balance Lifestyle",
+      "TieneOferta" : "True",
+      "Tipo" : "Urbanas"
+    },
+    "149" : {
+      "Genero" : "Mujer",
+      "Grupo" : "group1",
+      "IdItem" : 149,
+      "Nombre" : "Asics Patriot",
+      "TieneOferta" : "True",
+      "Tipo" : "Deportivas"
+    },
+    "178" : {
+      "Genero" : "Mujer",
+      "Grupo" : "group2",
+      "IdItem" : 178,
+      "Nombre" : "Adidas Cosmic 2",
+      "TieneOferta" : "True",
+      "Tipo" : "Deportivas"
+    },
+    "202" : {
+      "Genero" : "Mujer",
+      "Grupo" : "group3",
+      "IdItem" : 202,
+      "Nombre" : "Converse CoreOx",
+      "TieneOferta" : "True",
+      "Tipo" : "Urbanas"
+    },
+    "216" : {
+      "Genero" : "Mujer",
+      "Grupo" : "group3",
+      "IdItem" : 216,
+      "Nombre" : "Bata Zapatos de Vestir Taupe",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    },
+    "220" : {
+      "Genero" : "Mujer",
+      "Grupo" : "group3",
+      "IdItem" : 220,
+      "Nombre" : "Aldo Jeraelian",
+      "TieneOferta" : "True",
+      "Tipo" : "Casuales"
+    }
+  },
+  "Ofertas" : {
+    "-M8I6YFKWULNRhzXQHlY" : {
+      "Descripcion" : "Running for women 20% dscto",
+      "IdItem" : 116,
+      "Titulo" : "Adidas Running Falcon ",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/adidas%20falcon%20rojo%2Fofertas%2F116%2FAdidas%20Running%20Falcon.jpg?alt=media&token=e9e14655-f20a-413f-bbb7-90a9e6dea802"
+    },
+    "-M8ICeAB_a5d_VfX4dso" : {
+      "Descripcion" : "20% de descuento en Newport Galileo\nxd",
+      "IdItem" : 68,
+      "Titulo" : "Oferta en Newport Galileo",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Oferta%20en%20Newport%20Galileo%2Fofertas%2F68%2FZapatos%20Newport%20Galileo.jpg?alt=media&token=a6c34c38-7387-4ef3-9000-273e3d85c610"
+    },
+    "-M8rDCNC3Ur7wEbKX6gM" : {
+      "Descripcion" : "Elegancia a buen costo",
+      "IdItem" : 31,
+      "Titulo" : "Zapatos De Cuero",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatos%20de%20Cuero.jpg?alt=media&token=ad86f055-10f6-4ea3-b249-98f7ef8df970"
+    },
+    "-M8rVwsjlx-6JRdRnTwj" : {
+      "Descripcion" : "30% de descuento",
+      "IdItem" : 93,
+      "Titulo" : "Adidas Urbanas 3MC Black",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FAdidas%203MC%20Black.jpg?alt=media&token=d32f54e7-250e-41b2-9693-36c6f0e85e8f"
+    },
+    "-M8rmBPv33nTr4CuPgwa" : {
+      "Descripcion" : "30% de descuento",
+      "IdItem" : 33,
+      "Titulo" : "Zapatos Casuales Baldwinn",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatos%20Casuales%20Baldwinn.jpg?alt=media&token=51c62455-48b6-4be4-9f4d-d74a87aee159"
+    },
+    "-M8rma9W6zlD-Kel5NmH" : {
+      "Descripcion" : "25% de descuento",
+      "IdItem" : 34,
+      "Titulo" : "Zapatos Casuales Cuero",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatos%20Casuales%20Cuero.jpg?alt=media&token=5b7a4896-a378-4f90-a47f-c41968797878"
+    },
+    "-M8rmkuSQ3VX3wW_o_kB" : {
+      "Descripcion" : "Elegancia a bajo costo",
+      "IdItem" : 38,
+      "Titulo" : "Zapatos Casuales Stan",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatos%20Casuales%20Stan.jpg?alt=media&token=83a003d9-77e0-4df1-bf5a-a1375b621ef5"
+    },
+    "-M8rmvOblmVZGyOrs5DI" : {
+      "Descripcion" : "Sientete comodo",
+      "IdItem" : 50,
+      "Titulo" : "Adidas Selley Black",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FAdidas%20Selley%20Black.jpg?alt=media&token=886bfe7f-9a1c-44ca-8326-8fec40a97fcc"
+    },
+    "-M8rn81dZF-lt9VBgsI_" : {
+      "Descripcion" : "30% de descuento",
+      "IdItem" : 60,
+      "Titulo" : "Nike Mens Legend Trainer",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FNike%20Mens%20Legend%20Trainer.jpg?alt=media&token=7e166069-1b12-47b8-8be4-7ae7ed57e821"
+    },
+    "-M8rnGTF5MRB8B0pgjI2" : {
+      "Descripcion" : "25% de descuento",
+      "IdItem" : 64,
+      "Titulo" : "Nike Mens Varsity",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FNike%20Mens%20Varsity.jpg?alt=media&token=0e2a6136-1cc4-4e5f-964c-f10629272cf5"
+    },
+    "-M8rnhLfD_v0Ir4E8v4c" : {
+      "Descripcion" : "30% de descuento",
+      "IdItem" : 76,
+      "Titulo" : "Adidas Urbanas Black",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FAdidas%20Urbanas%20Black.jpg?alt=media&token=978fb61a-66a1-461f-8795-a7e4fed075c3"
+    },
+    "-M8rnpJxa2LWH5jVNy3s" : {
+      "Descripcion" : "25% de descuento",
+      "IdItem" : 77,
+      "Titulo" : "Converse Courtlandt Black",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FConverse%20Courtlandt%20Black.jpg?alt=media&token=a3dea477-5ef6-4839-8b00-7739c54c11bb"
+    },
+    "-M8rnzeQ96WrdpATys07" : {
+      "Descripcion" : "Sientete comodo",
+      "IdItem" : 82,
+      "Titulo" : "Zapatos Casuales Nelsonn",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatos%20Casuales%20Nelsonn.jpg?alt=media&token=61294539-0a14-4af5-8219-e57f0509c571"
+    },
+    "-M8roJ88dNS6QGWUU7QA" : {
+      "Descripcion" : "Elegancia a bajo costo",
+      "IdItem" : 86,
+      "Titulo" : "Zapatos formales Pasador ",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatos%20Formales%20Pasador.jpg?alt=media&token=5a73c35a-2fb4-489a-baf0-3c44c3a045f1"
+    },
+    "-M8roQYVtiHxFhs1_PQL" : {
+      "Descripcion" : "Sientete comodo",
+      "IdItem" : 67,
+      "Titulo" : "Greenbay Cuero",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatos%20Greenbay.jpg?alt=media&token=7517e5ca-ee5f-403e-9ad2-f04530c82a78"
+    },
+    "-M8roWtiK3EawGJlQDDc" : {
+      "Descripcion" : "Como en casa",
+      "IdItem" : 91,
+      "Titulo" : "Zapatillas Urbanas Adidas Red",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatillas%20Urbanas%20Adidas%20Red.jpg?alt=media&token=17d42180-1a44-475b-8c50-0853cdcab024"
+    },
+    "-M8rp4UoMJReMk2vg3J0" : {
+      "Descripcion" : "Corre el mundo",
+      "IdItem" : 97,
+      "Titulo" : "Nike Mens Varsity Compete ",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FNike%20Mens%20Varsity%20Compete%20Trainer.jpg?alt=media&token=cfab9edb-759b-4dd7-9b8d-fb371f4dc3d6"
+    },
+    "-M8rpFJmfWjEaq245Ftn" : {
+      "Descripcion" : "30% de descuento",
+      "IdItem" : 103,
+      "Titulo" : "Adidas Athletics 247 ",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatos%20Adidas%20Athletic%20247.jpg?alt=media&token=774061fc-ef82-4bba-8c61-66727580dff6"
+    },
+    "-M8rpOJE076su7-21y15" : {
+      "Descripcion" : "25% de descuento",
+      "IdItem" : 104,
+      "Titulo" : "Under Armour Charged Commit ",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FUnder%20Armour%20Charged%20Commit.jpg?alt=media&token=9d7861f4-d82f-4465-8695-4017b385e632"
+    },
+    "-M8rpbSVGcfd-YLtIhHd" : {
+      "Descripcion" : "30% de descuento",
+      "IdItem" : 142,
+      "Titulo" : "New Balance Lifestyle",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FNew%20Balance%20Lifestyle.jpg?alt=media&token=415d88ea-4293-4004-ba08-e288961f62ff"
+    },
+    "-M8rpiS1bTIEozUA2PIg" : {
+      "Descripcion" : "25% de descuento",
+      "IdItem" : 149,
+      "Titulo" : "Asics Patriot",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FAsics%20Patriot.jpg?alt=media&token=08860a32-9763-4b89-a9b4-c050d7196d2b"
+    },
+    "-M8rpr4kCkRFYViDsgJK" : {
+      "Descripcion" : "Corre el mundo",
+      "IdItem" : 178,
+      "Titulo" : "Adidas Cosmic 2",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FAdidas%20Cosmic%202.jpg?alt=media&token=0cb0600a-bec3-44cf-91bc-6ad1f1f5d493"
+    },
+    "-M8rpz6HMtWN2LgQ8ZR9" : {
+      "Descripcion" : "Sientete comodo",
+      "IdItem" : 202,
+      "Titulo" : "Converse CoreOx",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FConverse%20Core%20OX.jpg?alt=media&token=b0137192-86b1-4aa6-93b7-8b251be636fd"
+    },
+    "-M8rq5YfPOivoKwId_R3" : {
+      "Descripcion" : "Elegancia a bajo costo\n",
+      "IdItem" : 216,
+      "Titulo" : "Bata Zapatos de Vestir Taupe",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FZapatos%20de%20Vestir%20Taupe.jpg?alt=media&token=d7999f4c-806d-489a-b0e2-78729f425f0f"
+    },
+    "-MAOGGbol8whJ1ahEASG" : {
+      "Descripcion" : "20% de descuento",
+      "IdItem" : 220,
+      "Titulo" : "Aldo Jerelian",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/ofertas%2Fupload%2FAldo%20Jeraelian.jpg?alt=media&token=7d145c60-8e3f-4903-8895-88d76a1f866b"
+    }
+  },
+  "Personas" : {
+    "3" : {
+      "Cod_Alumno" : "u201416702",
+      "Edad" : 22,
+      "Genero" : "Hombre",
+      "IdPersona" : 3,
+      "Nombre" : "Tarazona Flores, Stefano Gabriel"
+    },
+    "4" : {
+      "Cod_Alumno" : "u201420363",
+      "Edad" : 23,
+      "Genero" : "Hombre",
+      "IdPersona" : 4,
+      "Nombre" : "Calderon Nima, Cesar  Anthony"
+    },
+    "6" : {
+      "Cod_Alumno" : "u201423717",
+      "Edad" : 25,
+      "Genero" : "Hombre",
+      "IdPersona" : 6,
+      "Nombre" : "Valencia Avendaño, Manuel"
+    },
+    "11" : {
+      "Cod_Alumno" : "u201411312",
+      "Edad" : 23,
+      "Genero" : "Hombre",
+      "IdPersona" : 11,
+      "Nombre" : "Silva Bocangel, Jean Marco"
+    },
+    "19" : {
+      "Cod_Alumno" : "u201414905",
+      "Edad" : 22,
+      "Genero" : "Hombre",
+      "IdPersona" : 19,
+      "Nombre" : "Saldaña Silva, Nixon"
+    },
+    "22" : {
+      "Cod_Alumno" : "u201616943",
+      "Edad" : 22,
+      "Genero" : "Hombre",
+      "IdPersona" : 22,
+      "Nombre" : "Salas Noain, Diego"
+    },
+    "23" : {
+      "Cod_Alumno" : "u201420684",
+      "Edad" : 23,
+      "Genero" : "Hombre",
+      "IdPersona" : 23,
+      "Nombre" : "Cadillo Hidalgo, Favio Cesar"
+    },
+    "24" : {
+      "Cod_Alumno" : "u201315089",
+      "Edad" : 25,
+      "Genero" : "Hombre",
+      "IdPersona" : 24,
+      "Nombre" : "Maguiña Mendoza, Ian Josue"
+    },
+    "43" : {
+      "Cod_Alumno" : "u201517035",
+      "Edad" : 22,
+      "Genero" : "Hombre",
+      "IdPersona" : 43,
+      "Nombre" : "Moreno Ccama, Edu David"
+    },
+    "44" : {
+      "Cod_Alumno" : "u201414839",
+      "Edad" : 25,
+      "Genero" : "Hombre",
+      "IdPersona" : 44,
+      "Nombre" : "Gleixner Valdizan, Pieter Josef"
+    },
+    "45" : {
+      "Cod_Alumno" : "u201518514",
+      "Edad" : 24,
+      "Genero" : "Hombre",
+      "IdPersona" : 45,
+      "Nombre" : "Enriquez Arones, Ivan Milton"
+    },
+    "50" : {
+      "Cod_Alumno" : "u201416444",
+      "Edad" : 24,
+      "Genero" : "Hombre",
+      "IdPersona" : 50,
+      "Nombre" : "Tupac Gutierrez, Giancarlo"
+    },
+    "57" : {
+      "Cod_Alumno" : "u201415738",
+      "Edad" : 23,
+      "Genero" : "Hombre",
+      "IdPersona" : 57,
+      "Nombre" : "Puente Nuñez, Antonio Andre"
+    },
+    "59" : {
+      "Cod_Alumno" : "u201414199",
+      "Edad" : 22,
+      "Genero" : "Hombre",
+      "IdPersona" : 59,
+      "Nombre" : "Vasquez Hidalgo, Jose Leonel"
+    },
+    "60" : {
+      "Cod_Alumno" : "u201511336",
+      "Edad" : 21,
+      "Genero" : "Hombre",
+      "IdPersona" : 60,
+      "Nombre" : "Carrasco Fernandez, Erick Marthyn"
+    },
+    "61" : {
+      "Cod_Alumno" : "u201511334",
+      "Edad" : 25,
+      "Genero" : "Hombre",
+      "IdPersona" : 61,
+      "Nombre" : "Ore Huaman, Kevin Derik"
+    },
+    "64" : {
+      "Cod_Alumno" : "u201421465",
+      "Edad" : 25,
+      "Genero" : "Hombre",
+      "IdPersona" : 64,
+      "Nombre" : "Marquez Paico, Francis"
+    },
+    "66" : {
+      "Cod_Alumno" : "u201510923",
+      "Edad" : 23,
+      "Genero" : "Hombre",
+      "IdPersona" : 66,
+      "Nombre" : "Aragon Ore, Daniel"
+    },
+    "68" : {
+      "Cod_Alumno" : "u201319643",
+      "Edad" : 25,
+      "Genero" : "Hombre",
+      "IdPersona" : 68,
+      "Nombre" : "Necochea Mendoza, Paul Alejandro"
+    },
+    "72" : {
+      "Cod_Alumno" : "u201420181",
+      "Edad" : 22,
+      "Genero" : "Hombre",
+      "IdPersona" : 72,
+      "Nombre" : "Villadoma Coaquira, Jhon James"
+    },
+    "76" : {
+      "Cod_Alumno" : "u201418397",
+      "Edad" : 27,
+      "Genero" : "Hombre",
+      "IdPersona" : 76,
+      "Nombre" : "Zuñiga Huacho, Ray Guillermo"
+    },
+    "77" : {
+      "Cod_Alumno" : "u201413838",
+      "Edad" : 22,
+      "Genero" : "Hombre",
+      "IdPersona" : 77,
+      "Nombre" : "Huamani Alhuay, Luis Alfredo"
+    },
+    "80" : {
+      "Cod_Alumno" : "u201510738",
+      "Edad" : 21,
+      "Genero" : "Hombre",
+      "IdPersona" : 80,
+      "Nombre" : "Mercado Luna, Renato"
+    },
+    "84" : {
+      "Cod_Alumno" : "u201410268",
+      "Edad" : 22,
+      "Genero" : "Hombre",
+      "IdPersona" : 84,
+      "Nombre" : "Bullon Timoteo, Hugo Alejandro"
+    },
+    "85" : {
+      "Cod_Alumno" : "u201412061",
+      "Edad" : 24,
+      "Genero" : "Hombre",
+      "IdPersona" : 85,
+      "Nombre" : "Antezana Raymondi, Luis Guillermo"
+    },
+    "102" : {
+      "Cod_Alumno" : "u201417582",
+      "Edad" : 21,
+      "Genero" : "Hombre",
+      "IdPersona" : 102,
+      "Nombre" : "Rubio Castillo, Nair Carlos Arturo"
+    },
+    "106" : {
+      "Cod_Alumno" : "u201510540",
+      "Edad" : 21,
+      "Genero" : "Hombre",
+      "IdPersona" : 106,
+      "Nombre" : "Monzon Salvador, Gianfranco"
+    },
+    "109" : {
+      "Cod_Alumno" : "u201314158",
+      "Edad" : 23,
+      "Genero" : "Hombre",
+      "IdPersona" : 109,
+      "Nombre" : "Benavente Soto, Gabriel Alonso"
+    },
+    "115" : {
+      "Cod_Alumno" : "u201512304",
+      "Edad" : 21,
+      "Genero" : "Mujer",
+      "IdPersona" : 115,
+      "Nombre" : "Haro Davila, Francesca Valeria"
+    },
+    "117" : {
+      "Cod_Alumno" : "u201613349",
+      "Edad" : 21,
+      "Genero" : "Mujer",
+      "IdPersona" : 117,
+      "Nombre" : "Donayre Leon, Claudia Shirley"
+    },
+    "118" : {
+      "Cod_Alumno" : "u201517391",
+      "Edad" : 20,
+      "Genero" : "Mujer",
+      "IdPersona" : 118,
+      "Nombre" : "Fierro Huarote, Claudia Jennifer"
+    },
+    "119" : {
+      "Cod_Alumno" : "u201625709",
+      "Edad" : 21,
+      "Genero" : "Mujer",
+      "IdPersona" : 119,
+      "Nombre" : "Soria Saavedra, Claudia Jazmin"
+    },
+    "120" : {
+      "Cod_Alumno" : "u201611702",
+      "Edad" : 24,
+      "Genero" : "Mujer",
+      "IdPersona" : 120,
+      "Nombre" : "Fernandez Sifuentes, Genesis Maria"
+    },
+    "121" : {
+      "Cod_Alumno" : "u201520369",
+      "Edad" : 22,
+      "Genero" : "Mujer",
+      "IdPersona" : 121,
+      "Nombre" : "Sanchez Chipana, Graciela Briggite"
+    },
+    "122" : {
+      "Cod_Alumno" : "u201415551",
+      "Edad" : 25,
+      "Genero" : "Mujer",
+      "IdPersona" : 122,
+      "Nombre" : "Altamirano Calderon, Jacqueline Milagros"
+    },
+    "123" : {
+      "Cod_Alumno" : "u201320400",
+      "Edad" : 24,
+      "Genero" : "Mujer",
+      "IdPersona" : 123,
+      "Nombre" : "Quico Cauti, Kathia Milagros"
+    },
+    "124" : {
+      "Cod_Alumno" : "u201420413",
+      "Edad" : 25,
+      "Genero" : "Mujer",
+      "IdPersona" : 124,
+      "Nombre" : "Castillo Carbajal, Pamela Sofia"
+    },
+    "129" : {
+      "Cod_Alumno" : "u201420554",
+      "Edad" : 22,
+      "Genero" : "Mujer",
+      "IdPersona" : 129,
+      "Nombre" : "Ramirez Espinoza, Gianina Andrea"
+    },
+    "130" : {
+      "Cod_Alumno" : "u201523752",
+      "Edad" : 24,
+      "Genero" : "Mujer",
+      "IdPersona" : 130,
+      "Nombre" : "Nuñovero Paiva, Daniela Alessandra"
+    },
+    "132" : {
+      "Cod_Alumno" : "u201421988",
+      "Edad" : 25,
+      "Genero" : "Mujer",
+      "IdPersona" : 132,
+      "Nombre" : "Santillan Sanchez, Ana Paula"
+    },
+    "Ha" : {
+      "Cod_Alumno" : "Ha",
+      "Edad" : "20-50",
+      "Genero" : "Hombre",
+      "IdPersona" : "Ha",
+      "Nombre" : "Adulto (H)"
+    },
+    "Had" : {
+      "Cod_Alumno" : "Had",
+      "Edad" : "12-20",
+      "Genero" : "Hombre",
+      "IdPersona" : "Had",
+      "Nombre" : "Adolecente (H)"
+    },
+    "Ham" : {
+      "Cod_Alumno" : "Ham",
+      "Edad" : "50-100",
+      "Genero" : "Hombre",
+      "IdPersona" : "Ham",
+      "Nombre" : "Adulto Mayor(H)"
+    },
+    "Hn" : {
+      "Cod_Alumno" : "Hn",
+      "Edad" : "0-12",
+      "Genero" : "Hombre",
+      "IdPersona" : "Hn",
+      "Nombre" : "Niño (H)"
+    },
+    "Ma" : {
+      "Cod_Alumno" : "Ma",
+      "Edad" : "20-50",
+      "Genero" : "Mujer",
+      "IdPersona" : "Ma",
+      "Nombre" : "Adulto (M)"
+    },
+    "Mad" : {
+      "Cod_Alumno" : "Mad",
+      "Edad" : "12-20",
+      "Genero" : "Mujer",
+      "IdPersona" : "Mad",
+      "Nombre" : "Adolecente (M)"
+    },
+    "Mam" : {
+      "Cod_Alumno" : "Mam",
+      "Edad" : "Adulto mayor",
+      "Genero" : "Mujer",
+      "IdPersona" : "Mam",
+      "Nombre" : "Adulto Mayor(M)"
+    },
+    "Mn" : {
+      "Cod_Alumno" : "Mn",
+      "Edad" : "Niña",
+      "Genero" : "Mujer",
+      "IdPersona" : "Mn",
+      "Nombre" : "Niña (M)"
+    },
+    "Ninguno" : {
+      "Cod_Alumno" : "Ninguno",
+      "Edad" : "-",
+      "Genero" : "-",
+      "IdPersona" : "Ninguno",
+      "Nombre" : "-"
+    }
+  },
+  "Preferencias" : {
+    "3" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 97,
+      "Preferencia3" : 67
+    },
+    "4" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 86,
+      "Preferencia3" : 104
+    },
+    "6" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 86,
+      "Preferencia3" : 77
+    },
+    "11" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 86,
+      "Preferencia3" : 64
+    },
+    "19" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 86,
+      "Preferencia3" : 64
+    },
+    "22" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 86,
+      "Preferencia3" : 67
+    },
+    "23" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 104,
+      "Preferencia3" : 93
+    },
+    "24" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 86,
+      "Preferencia3" : 64
+    },
+    "43" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "44" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "45" : {
+      "Preferencia1" : 38,
+      "Preferencia2" : 33,
+      "Preferencia3" : 86
+    },
+    "50" : {
+      "Preferencia1" : 31,
+      "Preferencia2" : 34,
+      "Preferencia3" : 38
+    },
+    "57" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "59" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "60" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 86
+    },
+    "61" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "64" : {
+      "Preferencia1" : 86,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "66" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "68" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "72" : {
+      "Preferencia1" : 31,
+      "Preferencia2" : 34,
+      "Preferencia3" : 38
+    },
+    "76" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 93
+    },
+    "77" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "80" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "84" : {
+      "Preferencia1" : 33,
+      "Preferencia2" : 76,
+      "Preferencia3" : 31
+    },
+    "85" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 38,
+      "Preferencia3" : 33
+    },
+    "102" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "106" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 31,
+      "Preferencia3" : 34
+    },
+    "109" : {
+      "Preferencia1" : 76,
+      "Preferencia2" : 33,
+      "Preferencia3" : 31
+    },
+    "115" : {
+      "Preferencia1" : 216,
+      "Preferencia2" : 202,
+      "Preferencia3" : 178
+    },
+    "117" : {
+      "Preferencia1" : 216,
+      "Preferencia2" : 202,
+      "Preferencia3" : 178
+    },
+    "118" : {
+      "Preferencia1" : 216,
+      "Preferencia2" : 202,
+      "Preferencia3" : 178
+    },
+    "119" : {
+      "Preferencia1" : 216,
+      "Preferencia2" : 202,
+      "Preferencia3" : 178
+    },
+    "120" : {
+      "Preferencia1" : 216,
+      "Preferencia2" : 202,
+      "Preferencia3" : 178
+    },
+    "121" : {
+      "Preferencia1" : 216,
+      "Preferencia2" : 202,
+      "Preferencia3" : 178
+    },
+    "122" : {
+      "Preferencia1" : 216,
+      "Preferencia2" : 202,
+      "Preferencia3" : 149
+    },
+    "123" : {
+      "Preferencia1" : 216,
+      "Preferencia2" : 202,
+      "Preferencia3" : 149
+    },
+    "124" : {
+      "Preferencia1" : 216,
+      "Preferencia2" : 202,
+      "Preferencia3" : 149
+    },
+    "129" : {
+      "Preferencia1" : 178,
+      "Preferencia2" : 149,
+      "Preferencia3" : 142
+    },
+    "130" : {
+      "Preferencia1" : 178,
+      "Preferencia2" : 149,
+      "Preferencia3" : 142
+    },
+    "132" : {
+      "Preferencia1" : 178,
+      "Preferencia2" : 149,
+      "Preferencia3" : 142
+    }
+  },
+  "Producto" : {
+    "1" : {
+      "Contenido_Generico" : "False",
+      "Descripcion" : "No disp",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 11,
+      "Tipo" : "Casuales",
+      "Titulo" : "Zapatos casuales",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FCasuales%2FAdidas%20Urbanas%20Black.png?alt=media&token=e8bf033e-da87-4344-8745-177b3a597e2b"
+    },
+    "2" : {
+      "Contenido_Generico" : "False",
+      "Descripcion" : "Disponibles",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 8,
+      "Tipo" : "Deportivas",
+      "Titulo" : "Zapatos Casuales",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FDeportivas%2FZapatos%20Casuales.png?alt=media&token=096833dd-0ba4-402c-be4b-13b522523d7a"
+    },
+    "3" : {
+      "Contenido_Generico" : "False",
+      "Descripcion" : "disponibles",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 15,
+      "Tipo" : "Casuales",
+      "Titulo" : "Zapatos Dress Eowan",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FCasuales%2FZapatos%20Dress%20Eowan.png?alt=media&token=2d71a25e-b82d-4ae2-bd69-071e9615186c"
+    },
+    "4" : {
+      "Contenido_Generico" : "False",
+      "Descripcion" : "Disponibles en tamaño 38,39,40,41,42,46",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 22,
+      "Tipo" : "Urbanas",
+      "Titulo" : "Zapatos Hombre Dress Fresien28",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FUrbanas%2FZapatos%20Hombre%20Dress%20Fresien28.png?alt=media&token=c8fa2951-e6a0-4a30-96bc-1d520c27b89e"
+    },
+    "5" : {
+      "Contenido_Generico" : "False",
+      "Descripcion" : "Disponibles en tamaño 38,39,40,41,42,57",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 18,
+      "Tipo" : "Casuales",
+      "Titulo" : "Zapatos Urbanos Haelisen",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FCasuales%2FZapatos%20Urbanos%20Haelisen.png?alt=media&token=07fb4ae9-4f46-42f1-938d-6faba2341524"
+    },
+    "6" : {
+      "Contenido_Generico" : "False",
+      "Descripcion" : "Disponibles en tamaño 38,39,40,41,42,48",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 6,
+      "Tipo" : "Deportivas",
+      "Titulo" : "Zapatos Urbanos",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FDeportivas%2FZapatos%20Urbanos.png?alt=media&token=b491ec8d-06e4-4a09-b943-50954f4e551a"
+    },
+    "7" : {
+      "Contenido_Generico" : "False",
+      "Descripcion" : "Disponibles en tamaño 38,39,40,41,42,49",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 26,
+      "Tipo" : "Urbanas",
+      "Titulo" : "Nike Free Metcon 2 Zapatillas de entrenamiento",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FUrbanas%2FNike%20Free%20Metcon%202%20Zapatillas%20de%20entrenamiento.png?alt=media&token=02ecdc38-b9fc-4188-bec5-686b19e68773"
+    },
+    "8" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Tenemos esta oferta para ti",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 12,
+      "Tipo" : "Casuales",
+      "Titulo" : "Zapatillas Urbanas Nike Acmi",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FCasuales%2F(1)%20Zapatillas%20Urbanas%20Nike%20Acmi.jpg?alt=media&token=d979843c-6e96-4ef6-a056-84f3d147dd93"
+    },
+    "9" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Tenemos esta oferta para ti",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 17,
+      "Tipo" : "Casuales",
+      "Titulo" : "Zapatillas Internationalist",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FCasuales%2F(2)%20Zapatillas%20Nike%20Internationalist.jpg?alt=media&token=137d5f0b-79da-41f5-88c0-85c122a7930c"
+    },
+    "10" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Tenemos esta oferta para ti",
+      "Genero" : "Hombre",
+      "Grupo" : "common",
+      "IdProducto" : 19,
+      "Tipo" : "Casuales",
+      "Titulo" : "Converse AS Core",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FCasuales%2F(3)%20Converse%20AS%20Core.jpg?alt=media&token=9ba273ab-f2a0-449e-b88a-2e7e76b23a37"
+    },
+    "-M6CJTyuQLc3GGX81MDc" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Nuevos productos",
+      "Genero" : "generico",
+      "Tipo" : "tipo",
+      "Titulo" : "Principales descuentos",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/nullultraflex-banner-new-offer.jpg?alt=media&token=410b1a0d-1040-436a-856a-e8ecf73832e9"
+    },
+    "-M6CK9bc4VGHe4oLiEQI" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "nuevos",
+      "Genero" : "generico",
+      "Tipo" : "tipo",
+      "Titulo" : "Nuevas temporadas",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/genericos%2Ftipo%2Fwork-like-boss-2-banner-1172x534.jpg?alt=media&token=55056462-b6b6-409b-957c-25e0408412d7"
+    },
+    "-M6aiNtF8SHFB2RBGSMr" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Nueva Oferta ",
+      "Genero" : "generico",
+      "Tipo" : "tipo",
+      "Titulo" : "Nueva Oferta",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FCasuales%2Fejemplo%20oferta.jpg?alt=media&token=7761eee7-547b-46d1-9ce7-9cf03e85c665"
+    },
+    "-M7QQZeQ8Xl--lSHVkyJ" : {
+      "Contenido_Generico" : "True",
+      "Descripcion" : "Ejemplo Generico",
+      "Genero" : "generico",
+      "Tipo" : "tipo",
+      "Titulo" : "Ejemplo Generico",
+      "URL_Imagen" : "https://firebasestorage.googleapis.com/v0/b/dslgdsfr.appspot.com/o/Hombres%2FCasuales%2FZapatos%20De%20Cuero.png?alt=media&token=6fef6508-ea16-481a-a186-2e4cbc48d341"
+    }
+  },
+  "ReconocimientoFacial" : {
+    "-M4gYMQrUZ3VB0br9K7d" : {
+      "Nombre" : "Stefano",
+      "userID" : "2"
+    },
+    "-M4gYVEoEuw5Ikwg_oSA" : {
+      "Nombre" : "Juan",
+      "userID" : "3"
+    },
+    "-M4gas5DfmMEkColGtBZ" : {
+      "Nombre" : "'Stefano'",
+      "userID" : "1"
+    },
+    "-M4gaumcNix8oIuJeJEF" : {
+      "Nombre" : "'Stefano'",
+      "userID" : "1"
+    },
+    "-M4gax_vfFNSOQvViJOg" : {
+      "Nombre" : "'Stefano'",
+      "userID" : "1"
+    },
+    "-M4gb-GXWMNDMyhUtmUu" : {
+      "Nombre" : "'Stefano'",
+      "userID" : "1"
+    },
+    "-M4gb5396plBx-p1U8oR" : {
+      "Nombre" : "'Stefano'",
+      "userID" : "1"
+    },
+    "-M4gb7wPa6mwB5AqM6bB" : {
+      "Nombre" : "'Stefano'",
+      "userID" : "1"
+    }
+  },
+  "Usuario" : {
+    "-M4AnPhA2NFmlTutzjYd" : {
+      "correo" : "arekusu92@gmail.com",
+      "nombre" : "Alex Quintana",
+      "password" : "sdsdfs"
+    },
+    "-M4Aq8qwU-r_K7iOXbtG" : {
+      "correo" : "dfs@dsc.com",
+      "nombre" : "asdad",
+      "password" : "asdad"
+    },
+    "-M4AruXPFX5yK4CAhkYk" : {
+      "correo" : "asdad@asdad.com",
+      "nombre" : "Roberto Quintana",
+      "password" : "asdad"
+    },
+    "-M4Bm__p3KYy2jc9vZIc" : {
+      "correo" : "a@a.com",
+      "nombre" : "a",
+      "password" : "a"
+    },
+    "-M4Bqy1G80jkKZ8FRJhZ" : {
+      "correo" : "Shiara@gmail.com",
+      "nombre" : "Shiara Arauzo",
+      "password" : "1234"
+    },
+    "-M4BsBb0Rw60onHC4tEY" : {
+      "correo" : "admin@hotmail.com",
+      "nombre" : "admin",
+      "password" : "admin"
+    },
+    "-M4GcdlblrJTNSIbhNFw" : {
+      "correo" : "admin@gmail.com",
+      "nombre" : "admin",
+      "password" : "admin"
+    },
+    "-M5d3pgeUfUenRhqq-DM" : {
+      "correo" : "margy@hotmail.com",
+      "nombre" : "margy",
+      "password" : "margy"
+    }
+  }
+}

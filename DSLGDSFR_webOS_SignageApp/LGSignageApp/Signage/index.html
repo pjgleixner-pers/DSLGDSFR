@@ -1,0 +1,208 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <meta charset="utf-8" />  
+    <title>My Slider</title>  
+
+    <link rel="stylesheet" type="text/css" href="main.css">
+
+    <style type="text/css">  
+
+
+        body {  
+            margin: 0;  
+            background: #e6e6e6;  
+        }  
+        .showSlide {  
+            display: block  
+        }  
+            .showSlide img {  
+                width: 100%;  
+            }  
+        .slidercontainer {  
+            position: relative;  
+            margin: auto;  
+        }  
+        .left, .right {  
+            cursor: pointer;  
+            position: absolute;  
+            top: 50%;  
+            width: auto;  
+            padding: 16px;  
+            margin-top: -22px;  
+            color: white;  
+            font-weight: bold;  
+            font-size: 18px;  
+            transition: 0.6s ease;  
+            border-radius: 0 3px 3px 0;  
+        }  
+        .right {  
+            right: 0;  
+            border-radius: 3px 0 0 3px;  
+        }  
+            .left:hover, .right:hover {  
+                background-color: rgba(115, 115, 115, 0.8);  
+            }  
+        .content {  
+            color: #000000;  
+            font-size: 150px;
+            font-family: Antonio-bol;
+            padding: 200px 120px;  
+            position: absolute;  
+            top: 10px;  
+            width: 100%;  
+            text-align: left;  
+        }
+        .contentname{
+            color: #000000;  
+            font-size: 150px;
+            font-family: Antonio-bol;
+            padding: 350px 120px;  
+            position: absolute;  
+            top: 10px;  
+            width: 100%;  
+            text-align: left;  
+
+        } 
+        .active {  
+            background-color: #717171;  
+        }  
+        /* Fading animation */  
+        .fade {  
+            -webkit-animation-name: fade;  
+            -webkit-animation-duration: 1.5s;  
+            animation-name: fade;  
+            animation-duration: 1.5s;  
+        }  
+        @-webkit-keyframes fade {  
+            from {  
+                opacity: .4  
+            }  
+            to {  
+                opacity: 1  
+            }  
+        }  
+  
+        @keyframes fade {  
+            from {  
+                opacity: .4  
+            }  
+            to {  
+                opacity: 1  
+            }  
+        }  
+    </style> 
+
+    <script src="jquery-3.5.1.min.js"></script>
+
+   
+
+    <script>
+        
+       
+        
+
+    </script>
+
+
+
+</head>  
+<body>  
+    <div class="slidercontainer">  
+        <div class="showSlide fade">  
+            <img src="" />  
+            <div class="content"></div>
+            <div class="contentname"></div> 
+        </div>  
+        
+
+    </div>  
+
+    
+  
+    <script type="text/javascript">  
+
+
+        var name;
+        var images = [];
+        var newStr;
+        
+
+        
+        
+
+        var slideIndex = -1;
+        setTimeout(carousel, 1000);
+        
+
+        function carousel() {
+            
+
+            
+            var x = document.getElementsByClassName("showSlide");
+
+            slideIndex++;
+
+            
+
+            if (slideIndex > (images.length)-1) {
+                slideIndex = 0
+                }
+
+
+            if (slideIndex == 0){
+                
+                        $.ajax({
+                    async: false, 
+                    global: true,
+                    dataType: "json",
+                    url: 'https://us-central1-dslgdsfr.cloudfunctions.net/databyLastUser',
+                    success: function(result){
+
+                    name = result.PersonaObject.nombre;
+                    name = name.split(", ").slice(1).join(", ");
+                    images = result.ofertasArray;
+                    console.log(name);
+                    console.log(images);
+                    //console.log(images.length)
+                    
+                }
+                });
+
+                console.log("ESTA LLAMANDO")
+            }
+            
+            console.log(slideIndex)
+            var img = x[0].children[0]
+            img.src = images[slideIndex];
+
+            var Name = x[0].children[2];
+            Name.innerHTML = name;
+            
+            console.log(name)
+            if (name != "")
+            {
+                var hola = x[0].children[1]
+                hola.innerHTML = "HOLA"  
+            }
+            else{
+                var hola = x[0].children[1]
+                hola.innerHTML = "" 
+            }
+
+            
+
+
+            x[0].style.display = "block";
+            //console.log(Name)
+            setTimeout(carousel, 5000); // Change image every # seconds
+            }
+
+        
+      
+    </script>  
+  
+</body>
+
+
+</html>   
